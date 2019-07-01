@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+c86b547e9f7eace6c81a804cd920fb99 Widget/CMakeFiles/Widget_autogen

@@ -1,0 +1,1 @@
+/home/gluck/.local/bin/c++     CMakeFiles/qwe.dir/main.cc.o  -o qwe Widget/libWidget.a /usr/lib64/libQt5Widgets.so.5.11.3 /usr/lib64/libQt5Gui.so.5.11.3 /usr/lib64/libQt5Core.so.5.11.3 

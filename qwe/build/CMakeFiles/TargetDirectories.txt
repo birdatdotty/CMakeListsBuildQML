@@ -1,0 +1,15 @@
+/home/gluck/qwe/build/CMakeFiles/install/strip.dir
+/home/gluck/qwe/build/CMakeFiles/edit_cache.dir
+/home/gluck/qwe/build/CMakeFiles/qwe.dir
+/home/gluck/qwe/build/CMakeFiles/rebuild_cache.dir
+/home/gluck/qwe/build/CMakeFiles/list_install_components.dir
+/home/gluck/qwe/build/CMakeFiles/install/local.dir
+/home/gluck/qwe/build/CMakeFiles/install.dir
+/home/gluck/qwe/build/Widget/CMakeFiles/install/strip.dir
+/home/gluck/qwe/build/Widget/CMakeFiles/edit_cache.dir
+/home/gluck/qwe/build/Widget/CMakeFiles/Widget.dir
+/home/gluck/qwe/build/Widget/CMakeFiles/rebuild_cache.dir
+/home/gluck/qwe/build/Widget/CMakeFiles/list_install_components.dir
+/home/gluck/qwe/build/Widget/CMakeFiles/install/local.dir
+/home/gluck/qwe/build/Widget/CMakeFiles/install.dir
+/home/gluck/qwe/build/Widget/CMakeFiles/Widget_autogen.dir

@@ -1,0 +1,8 @@
+{
+  "name":"qwe",
+  "sources":["main.cc"],
+  "headers":[],
+  "dirs":["Widget","Widget2"],
+  "Qt":["Widgets"],
+  "pc":[]
+}

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Components.qml</file>
+        <file>Files.qml</file>
+        <file>Dirs.qml</file>
+        <file>system-sharing.png</file>
+        <file>BuildMode.qml</file>
+        <file>ConfigBlock.qml</file>
+        <file>ExampleConfig.qml</file>
+        <file>GenCMakeTxt.js</file>
+    </qresource>
+</RCC>
